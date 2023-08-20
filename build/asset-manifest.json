@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Home/static/css/main.700b1d1b.css",
+    "main.js": "/Home/static/js/main.b30d64ab.js",
+    "static/media/hp.jpg": "/Home/static/media/hp.b7b08f0c2557bacbbba9.jpg",
+    "static/media/op9.jpg": "/Home/static/media/op9.6dd779ec4e955e0cdd80.jpg",
+    "static/media/dell.jpg": "/Home/static/media/dell.c5dbe0626330ad89db7c.jpg",
+    "static/media/op3.jpg": "/Home/static/media/op3.8ad9917c7a9de83ca8ab.jpg",
+    "static/media/op6.jpg": "/Home/static/media/op6.041cf6b9e0bfeb77c5c1.jpg",
+    "static/media/server.jpg": "/Home/static/media/server.927e526650e1ee8ab3b8.jpg",
+    "static/media/camera.jpg": "/Home/static/media/camera.8e349161e6f56ccc9a2e.jpg",
+    "static/media/op112.jpg": "/Home/static/media/op112.947be2f86b9a3d7bc073.jpg",
+    "index.html": "/Home/index.html",
+    "main.700b1d1b.css.map": "/Home/static/css/main.700b1d1b.css.map",
+    "main.b30d64ab.js.map": "/Home/static/js/main.b30d64ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.700b1d1b.css",
+    "static/js/main.b30d64ab.js"
+  ]
+}
